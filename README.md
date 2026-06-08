@@ -23,7 +23,7 @@ pip install -r requirements.txt
 
 ## Quick Start
 Running the Application
-- GUI Version: Simply double-click bin/EIS_Toolbox.exe.
+- **GUI Version:** Download the `EIS_Toolbox.exe` directly from the [Releases](https://github.com/ChemCode-Chang/EIS-Toolbox/releases) page and double-click to run.
 - Script Version: Run the main program via terminal: python src/gui_app.py
 
 ## Citation
@@ -61,7 +61,7 @@ pip install -r requirements.txt
 
 ## 快速开始
 运行软件
-- GUI 版本： 直接双击 bin/EIS_Toolbox.exe 即可运行。
+- **GUI 版本：** 请前往 [Releases](https://github.com/ChemCode-Chang/EIS-Toolbox/releases) 页面直接下载 `EIS_Toolbox.exe`，双击即可运行。
 - 脚本版本： 通过终端运行主程序：python src/gui_app.py
 
 ## 引用说明
