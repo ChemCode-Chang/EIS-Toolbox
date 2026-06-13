@@ -25,8 +25,8 @@ pip install -r requirements.txt
 Running the Application
 
 **GUI Version :** No installation required. Click the links below to download directly, and double-click to run:
-- 🇬🇧 [Download English Version (EIS_Toolbox_v1.5_EN.exe)](https://github.com/ChemCode-Chang/EIS-Toolbox/releases/download/v1.5/EIS_Toolbox_v1.5_EN.exe)
-- 🇨🇳 [Download Chinese Version (EIS_Toolbox_v1.5_CN.exe)](https://github.com/ChemCode-Chang/EIS-Toolbox/releases/download/v1.5/EIS_Toolbox_v1.5_CN.exe)
+- [Download English Version (EIS_Toolbox_v1.5_EN.exe)](https://github.com/ChemCode-Chang/EIS-Toolbox/releases/download/v1.5/EIS_Toolbox_v1.5_EN.exe)
+- [Download Chinese Version (EIS_Toolbox_v1.5_CN.exe)](https://github.com/ChemCode-Chang/EIS-Toolbox/releases/download/v1.5/EIS_Toolbox_v1.5_CN.exe)
 
 - Script Version: Run the main program via terminal: `python gui_app.py`
 
@@ -65,9 +65,9 @@ pip install -r requirements.txt
 
 ## 快速开始
 如何运行程序
-**GUI 软件版 (推荐):** 无需配置 Python 环境，直接点击下方链接下载，双击即可运行：
-- 🇨🇳 [点击下载 中文版 (EIS_Toolbox_v1.5_CN.exe)](https://github.com/ChemCode-Chang/EIS-Toolbox/releases/download/v1.5/EIS_Toolbox_v1.5_CN.exe)
-- 🇬🇧 [点击下载 英文版 (EIS_Toolbox_v1.5_EN.exe)](https://github.com/ChemCode-Chang/EIS-Toolbox/releases/download/v1.5/EIS_Toolbox_v1.5_EN.exe)
+**GUI 软件版:** 无需配置 Python 环境，直接点击下方链接下载，双击即可运行：
+- [点击下载 中文版 (EIS_Toolbox_v1.5_CN.exe)](https://github.com/ChemCode-Chang/EIS-Toolbox/releases/download/v1.5/EIS_Toolbox_v1.5_CN.exe)
+- [点击下载 英文版 (EIS_Toolbox_v1.5_EN.exe)](https://github.com/ChemCode-Chang/EIS-Toolbox/releases/download/v1.5/EIS_Toolbox_v1.5_EN.exe)
 
 - 源码脚本版: 在终端中运行主程序: `python gui_app.py`
 
