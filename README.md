@@ -23,8 +23,12 @@ pip install -r requirements.txt
 
 ## Quick Start
 Running the Application
-- **GUI Version:** Download the `EIS_Toolbox.exe` directly from the [Releases](https://github.com/ChemCode-Chang/EIS-Toolbox/releases) page and double-click to run.
-- Script Version: Run the main program via terminal: python src/gui_app.py
+
+**GUI Version :** No installation required. Click the links below to download directly, and double-click to run:
+- 🇬🇧 [Download English Version (EIS_Toolbox_v1.5_EN.exe)](https://github.com/ChemCode-Chang/EIS-Toolbox/releases/download/v1.5/EIS_Toolbox_v1.5_EN.exe)
+- 🇨🇳 [Download Chinese Version (EIS_Toolbox_v1.5_CN.exe)](https://github.com/ChemCode-Chang/EIS-Toolbox/releases/download/v1.5/EIS_Toolbox_v1.5_CN.exe)
+
+- Script Version: Run the main program via terminal: `python gui_app.py`
 
 ## Citation
 (Citation details will be added upon formal paper publication.)
@@ -60,9 +64,12 @@ EIS_Toolbox 是一个为电化学阻抗谱 (EIS) 数据设计的高通量自动�
 pip install -r requirements.txt
 
 ## 快速开始
-运行软件
-- **GUI 版本：** 请前往 [Releases](https://github.com/ChemCode-Chang/EIS-Toolbox/releases) 页面直接下载 `EIS_Toolbox.exe`，双击即可运行。
-- 脚本版本： 通过终端运行主程序：python src/gui_app.py
+如何运行程序
+**GUI 软件版 (推荐):** 无需配置 Python 环境，直接点击下方链接下载，双击即可运行：
+- 🇨🇳 [点击下载 中文版 (EIS_Toolbox_v1.5_CN.exe)](https://github.com/ChemCode-Chang/EIS-Toolbox/releases/download/v1.5/EIS_Toolbox_v1.5_CN.exe)
+- 🇬🇧 [点击下载 英文版 (EIS_Toolbox_v1.5_EN.exe)](https://github.com/ChemCode-Chang/EIS-Toolbox/releases/download/v1.5/EIS_Toolbox_v1.5_EN.exe)
+
+- 源码脚本版: 在终端中运行主程序: `python gui_app.py`
 
 ## 引用说明
 (本软件相关论文正在审稿中，引用信息将在论文正式发表后更新。)
