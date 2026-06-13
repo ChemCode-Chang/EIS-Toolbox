@@ -1,4 +1,4 @@
-# EIS_Toolbox: A Physically Self-Consistent Automated Robust Framework
+# EIS_Toolbox: A Physically-Informed Automated Robust Framework
 
 EIS_Toolbox is a high-throughput automated analysis framework designed for Electrochemical Impedance Spectroscopy (EIS) data. It provides a robust solution for the batch analysis of impedance spectra.
 
@@ -40,7 +40,7 @@ This project is licensed under the MIT License.
 For questions or feedback, please contact: 2014488020@qq.com
 
 ----------------------------------------------------------------------------------------------------------------
-# EIS_Toolbox: 高通量、物理自洽的自动化 EIS 分析框架
+# EIS_Toolbox: 高通量、物理依从的自动化 EIS 分析框架
 
 EIS_Toolbox 是一个为电化学阻抗谱 (EIS) 数据设计的高通量自动化分析框架，旨在为阻抗谱数据提供鲁棒的批处理分析方案。
 
